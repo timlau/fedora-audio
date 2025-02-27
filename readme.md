@@ -53,7 +53,7 @@ A small cheap midi keyboard like Ex. Akai Professional LPK25 or M-Audio Keystati
 ### Audio Interface
 An audio interface like will be an requirement if you want to record audio from microphones og instruments like a guitar and want to have som decent audio.
 
- - [Studio 24c](https://www.presonus.com/products/studio-24c)
+ - [PreSonus Studio 24c](https://www.presonus.com/products/studio-24c)
  - [Focusrite Scarlett 2i2](https://focusrite.com/products/scarlett-2i2)
  - [Behringer U-Phoria UMC22](https://www.behringer.com/product.html?modelCode=0805-AAJ)
  
