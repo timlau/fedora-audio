@@ -53,9 +53,9 @@ A small cheap midi keyboard like Ex. Akai Professional LPK25 or M-Audio Keystati
 ### Audio Interface
 An audio interface like will be an requirement if you want to record audio from microphones og instruments like a guitar and want to have som decent audio.
 
- - (Studio 24c)[https://www.presonus.com/products/studio-24c] 
- - (Focusrite Scarlett 2i2)[https://focusrite.com/products/scarlett-2i2]
- - (Behringer U-Phoria UMC22)[https://www.behringer.com/product.html?modelCode=0805-AAJ]
+ - [Studio 24c](https://www.presonus.com/products/studio-24c)
+ - [Focusrite Scarlett 2i2](https://focusrite.com/products/scarlett-2i2)
+ - [Behringer U-Phoria UMC22]([https://www.behringer.com/product.html?modelCode=0805-AAJ)
  
 They work out of the box in Fedora, if you look for something else, then google if it work in linux without any problems.
 
@@ -63,7 +63,7 @@ They work out of the box in Fedora, if you look for something else, then google 
 A good pair of cabled studio headphones, they need to have a neutral audio profile, most of the Hifi ones don't. Audio Technica ATH-M30x, ATH-M40x or ATH-M50x is good options, based on your budget. The more expensive Beyerdynamic DT 770 Pro is also a great choice.
 
 ### A couple of studio monitors
-When mixing audio you need a couple of studio monitor, I use a pair of (PreSonus Eris E3.5)[https://www.presonus.com/products/eris-e35-studio-monitor], they are good value for the money. There are a lot of other choices based on your budget.
+When mixing audio you need a couple of studio monitor, I use a pair of [PreSonus Eris E3.5](https://www.presonus.com/products/eris-e35-studio-monitor), they are good value for the money. There are a lot of other choices based on your budget.
 
 
 
