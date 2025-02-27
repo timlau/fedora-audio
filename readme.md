@@ -55,7 +55,7 @@ An audio interface like will be an requirement if you want to record audio from 
 
  - [Studio 24c](https://www.presonus.com/products/studio-24c)
  - [Focusrite Scarlett 2i2](https://focusrite.com/products/scarlett-2i2)
- - [Behringer U-Phoria UMC22]([https://www.behringer.com/product.html?modelCode=0805-AAJ)
+ - [Behringer U-Phoria UMC22](https://www.behringer.com/product.html?modelCode=0805-AAJ)
  
 They work out of the box in Fedora, if you look for something else, then google if it work in linux without any problems.
 
